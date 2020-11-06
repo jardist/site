@@ -1,0 +1,45 @@
+{
+  "name": "Gudang Kitab Online",
+  "short_name": "Gudang Kitab",
+  "start_url": "https://www.fly.web.id/?m=1",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#b30000",
+  "description": "Download Gratis Kitab Kuning Dengan Format PDF",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-iIyhJ1YPQfw/X6VeqsvNP1I/AAAAAAAAAl8/SfgY2Y8x_xYEWm-oOqty9fETfoDN2hyZgCLcBGAsYHQ/s48/favicon-maskable.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "purpose": "maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-iIyhJ1YPQfw/X6VeqsvNP1I/AAAAAAAAAl8/SfgY2Y8x_xYEWm-oOqty9fETfoDN2hyZgCLcBGAsYHQ/s72/favicon-maskable.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "purpose": "maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-iIyhJ1YPQfw/X6VeqsvNP1I/AAAAAAAAAl8/SfgY2Y8x_xYEWm-oOqty9fETfoDN2hyZgCLcBGAsYHQ/s96/favicon-maskable.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "purpose": "maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-iIyhJ1YPQfw/X6VeqsvNP1I/AAAAAAAAAl8/SfgY2Y8x_xYEWm-oOqty9fETfoDN2hyZgCLcBGAsYHQ/s144/favicon-maskable.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "purpose": "maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-iIyhJ1YPQfw/X6VeqsvNP1I/AAAAAAAAAl8/SfgY2Y8x_xYEWm-oOqty9fETfoDN2hyZgCLcBGAsYHQ/s168/favicon-maskable.png",
+    "sizes": "168x168",
+    "type": "image/png",
+    "purpose": "maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-iIyhJ1YPQfw/X6VeqsvNP1I/AAAAAAAAAl8/SfgY2Y8x_xYEWm-oOqty9fETfoDN2hyZgCLcBGAsYHQ/s192/favicon-maskable.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-iIyhJ1YPQfw/X6VeqsvNP1I/AAAAAAAAAl8/SfgY2Y8x_xYEWm-oOqty9fETfoDN2hyZgCLcBGAsYHQ/s512/favicon-maskable.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "maskable"
+  }]
+}
