@@ -1,0 +1,45 @@
+{
+  "name": "Udy Blekecuis",
+  "short_name": "Blekecuis",
+  "start_url": "https://www.blekecuis.com/?m=1",
+  "display": "standalone",
+  "background_color": "#00000",
+  "theme_color": "#decda2",
+  "description": "Content Creator | Lagu Dan Film Ngapak Lucu Brebes",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-C1wxUHNYE9I/YAo_yCydXeI/AAAAAAAABFc/RuAXRGgledYMuRY7bjTWqvIoKsYmx8OhwCLcBGAsYHQ/s48-rw-d/favicon_maskable.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "purpose": "maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-C1wxUHNYE9I/YAo_yCydXeI/AAAAAAAABFc/RuAXRGgledYMuRY7bjTWqvIoKsYmx8OhwCLcBGAsYHQ/s72-rw-d/favicon_maskable.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "purpose": "maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-C1wxUHNYE9I/YAo_yCydXeI/AAAAAAAABFc/RuAXRGgledYMuRY7bjTWqvIoKsYmx8OhwCLcBGAsYHQ/s96-rw-d/favicon_maskable.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "purpose": "maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-C1wxUHNYE9I/YAo_yCydXeI/AAAAAAAABFc/RuAXRGgledYMuRY7bjTWqvIoKsYmx8OhwCLcBGAsYHQ/s144-rw-d/favicon_maskable.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "purpose": "maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-C1wxUHNYE9I/YAo_yCydXeI/AAAAAAAABFc/RuAXRGgledYMuRY7bjTWqvIoKsYmx8OhwCLcBGAsYHQ/s168-rw-d/favicon_maskable.png",
+    "sizes": "168x168",
+    "type": "image/png",
+    "purpose": "maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-C1wxUHNYE9I/YAo_yCydXeI/AAAAAAAABFc/RuAXRGgledYMuRY7bjTWqvIoKsYmx8OhwCLcBGAsYHQ/s192-rw-d/favicon_maskable.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-C1wxUHNYE9I/YAo_yCydXeI/AAAAAAAABFc/RuAXRGgledYMuRY7bjTWqvIoKsYmx8OhwCLcBGAsYHQ/s512-rw-d/favicon_maskable.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "maskable"
+  }]
+}
